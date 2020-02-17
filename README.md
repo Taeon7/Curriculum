@@ -5,8 +5,9 @@ STATUS
 * 3º semestre de Sistemas de Informação - Procurando por oportunidades de aprendizado em back-end; minhas habilidades nessa área se resumem ao conhecimento razoável em Lógica de Programação, C, C++, Javascript e Swift.
 - No momento conto com bastante conhecimento na área de desenvolvimento/design de interfaces gráficas para Web, Mobile e etc. HTML, HTML5, CSS3, Bootstrap; front-end.
 
+
 CV
---------------
+====
 
 Dados Pessoais
 --------------
